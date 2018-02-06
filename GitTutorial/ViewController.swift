@@ -11,8 +11,10 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+        print("this is a test of github")
+        print("this is a second test") 
         super.viewDidLoad()
-         print("this is a test of github")
+        
     }
 
  
